@@ -1,2 +1,3 @@
 ArgoCD needs to be provisioned and this repository configured in ArgoCD.
+ArgoCD is provisioned in EKS
 https://www.youtube.com/watch?v=xAjledixxTE
