@@ -1,1 +1,2 @@
 ArgoCD needs to be provisioned and this repository configured in ArgoCD.
+https://www.youtube.com/watch?v=xAjledixxTE
